@@ -1,0 +1,6 @@
+[submodule "FREDI"]
+	path = FREDI
+	url = https://github.com/jpfutalef/FREDI
+[submodule "Arduino-Makefile"]
+	path = Arduino-Makefile
+	url = https://github.com/sudar/Arduino-Makefile

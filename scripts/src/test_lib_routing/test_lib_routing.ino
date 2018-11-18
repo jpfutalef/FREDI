@@ -1,4 +1,4 @@
-#include "../FREDI.h"
+#include "FREDI.h"
 
 void setup() {
   // put your setup code here, to run once:
